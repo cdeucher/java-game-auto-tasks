@@ -1,0 +1,10 @@
+105,112,2000,#F1 [skill-coldown,skill-key,animation-delay]
+16,113,50,#F2
+11,114,50,#F3
+108,115,1000,#F4
+10,50,50,#2 pot red
+20,51,50,#3 pot blue
+0,222,50,#drop
+0,222,50,#drop
+0,222,50,#drop
+0,222,50,#drop
